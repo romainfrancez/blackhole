@@ -38,6 +38,7 @@
 
     grunt.loadNpmTasks('grunt-contrib-jshint');
 
+    grunt.registerTask('test', ['default']);
     grunt.registerTask('default', ['jshint']);
 
   };
