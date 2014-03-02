@@ -2,7 +2,7 @@
   "name": "blackhole",
   "description": "An empty function to discard results.",
   "author": "Romain Francez <me@romainf.fr> (http://romainf.fr)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "GPL-3.0",
   "main": "./lib/blackhole.js",
   "devDependencies": {
